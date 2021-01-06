@@ -1,7 +1,17 @@
+
+
+.firstsec{
+    
+}
+
+body{  
+font-weight: bolder;background-color: rgb(255, 146, 246);
+}
+
 .half-width{
     width: 35%;
     float: left;
-    margin: ;
+    
     /* padding: 4%; */
     padding-left: 9%;
     padding-top: 3%;
@@ -43,6 +53,7 @@ color: rgb(255, 0, 0);
     color: white;
     background-image: linear-gradient(45deg,rgb(129, 2, 233),blue);
     width: 130px;
+    border-radius: 5px;
 }
 h1{
     color: teal;
@@ -54,6 +65,7 @@ p{
 .latest{
     padding-top: 1090px;
     /* background-color:rgb(red, rgb(31, 216, 31), blue); */
+    /* background-color: rgb(228, 153, 145); */
 }
 
 
@@ -70,13 +82,24 @@ p{
 }
 .inq{ 
     text-align: center;
+    color: white;
     
-    
-    width: 50px;
+/*     
+    width: 200px; */
     height: 90px;
+      
     background-repeat: no-repeat;
-        /* background-image: url(img/BACK.png); */
+       
     } 
-    .secinq{
+    inc img{
+        width: 100%;
+    }
+    .secinq{ padding-top: 300px;
+       background-image: url(img/BACK.png);
         object-position: center;
     }
+    .contactsec{
+        padding-top: 200px;
+    }
+
+    
