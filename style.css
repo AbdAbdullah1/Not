@@ -50,3 +50,19 @@ h1{
 p{
     color: slateblue;
 }
+
+.latest{
+    padding-top: 1090px;
+}
+
+
+.secimg img{
+    width: 300px;
+  
+    float: left;
+    padding-left: 100px;
+
+}
+.lats{
+    text-align: center;
+}
