@@ -66,4 +66,17 @@ p{
 }
 .lats{
     text-align: center;
+    
 }
+.inq{ 
+    text-align: center;
+    
+    
+    width: 50px;
+    height: 90px;
+    background-repeat: no-repeat;
+        /* background-image: url(img/BACK.png); */
+    } 
+    .secinq{
+        object-position: center;
+    }
